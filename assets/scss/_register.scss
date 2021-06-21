@@ -1,0 +1,19 @@
+.register {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin: 5% auto;
+
+
+    &__title {
+        text-align: center;
+    }
+
+    &__desc {
+        text-align: center;
+    }
+
+    &__signup {
+        color: darkblue;
+    }
+}
